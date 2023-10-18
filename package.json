@@ -1,0 +1,14 @@
+{
+  "name": "gravity",
+  "version": "1.0.0",
+  "description": "A gravity sim??",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Tyler Selden",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^27.0.0"
+  }
+}
